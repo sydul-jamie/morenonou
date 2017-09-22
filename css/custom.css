@@ -1,0 +1,231 @@
+body{
+  margin:0 auto;
+  padding:0px;
+}
+
+
+/*=========== Typography ============ */
+
+*{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'aileron', sans-serif;
+}
+
+.text-center{
+  text-align: center;
+}
+
+.text-justify{
+  text-align: justify !important;
+}
+
+.text-left{
+  text-align: left;
+}
+.font-upercase{
+  text-transform: uppercase;
+}
+.font-white{
+  color:#ffffff !important;
+}
+
+.font-black{
+  color: black;
+}
+
+.font-grey{
+  color: grey;
+}
+
+.md-white{
+  color:#ffffff !important;
+}
+
+.bold{
+  font-weight: bolder;
+}
+.padding-t-10px{
+  padding-top:10px;
+}
+
+.padding-5px{
+  padding:5px;
+}
+
+
+.padding-20px{
+  padding:20px;
+}
+
+.padding-r-20px{
+  padding-right: 20px;
+}
+.padding-40px{
+  padding:40px;
+}
+.padding-top{
+  padding: 70px 10px 0px 10px;
+}
+
+.space-40px{
+  height: 40px;
+  
+}
+.padding-top2{
+  padding-top: 40px;
+}
+
+.padding-bottom{
+  padding-bottom: 40px;
+}
+
+.margin-0{
+  margin: 0 auto;
+  padding: 0px;
+}
+
+.margin-left{
+  margin-left:10px;
+}
+
+.margin-right{
+  margin-right: 10px;
+}
+
+.padding-0{
+padding:0px;
+}
+
+.min-height{
+  min-height: 340px;
+}
+
+.text-padding-left-right{
+  padding-right: 80px;
+  padding-left: 80px; 
+}
+ 
+ .bg-white{
+  background: #ffffff !important;
+ }
+
+.bg-green{
+  background: #21B2A6 !important;
+}
+
+.bg-black
+{
+  background:black !important;
+
+}
+
+.bg-off-white{
+  background: #FAF8F8 !important;
+}
+.bg-ass{
+  background: #F1F3F3 !important;
+}
+
+.bg-grey{
+  background: #E3E2E2 !important;
+}
+
+.line-white{
+  margin: 0 auto;
+  background: #ffffff;
+  width: 100px;
+  height: 2px;
+}
+
+.img-responsive{
+  width: 100%;
+  margin: 0 auto;
+  padding: 0px;
+}
+
+p{
+  text-align: center;
+  line-height: 20px;
+}
+/*==== Header ====*/
+
+.list-menu li{
+  list-style: none;
+  display: inline-block;
+  padding:30px 40px 10px 40px;
+}
+
+.search-icon{
+  text-align: left;
+  width: 200px;
+}
+
+/*=== search page ===*/
+.black-block{
+  width: 100%;
+  background: black;
+  text-align: center;
+  color: white;
+  padding: 15px;
+}
+
+.pre-footer{
+  background: #DBDBDB;
+}
+
+.white-line{
+  width:100%;
+  height: 2px;
+  background: white;
+}
+
+.footer-text ul li{
+  list-style: none;
+  color: white;
+  text-align: left;
+}
+
+
+/*====== banner =====*/
+
+.banner{
+  margin-top: 80px;
+  text-align: center;
+  background-image: url(bg-img/01.png);
+  min-height: 600px;
+}
+.banner h1{
+  padding-top: 10px;
+  color: #ffffff;
+  font-size: 45px;
+  font-weight: bolder;
+}
+
+.banner h6{
+  font-weight: bolder;
+  line-height: 20px;
+  z-index: -2;
+}
+
+.btn-banner{
+  margin-top: 30px;
+  background: transparent;
+  border-radius:0px;
+  color: #ffffff;
+  font-weight: bolder;
+  border:1px solid white;
+  width: 250px;
+}
+
+
+
+
+ /*======== mobile responsive ============*/
+
+@media screen and (max-width: 768px) 
+{
+      
+
+
+
+}
